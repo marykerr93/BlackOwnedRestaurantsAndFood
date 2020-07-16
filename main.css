@@ -1,0 +1,55 @@
+#map {
+    width: 60%;
+    height: 600px;
+    display: flex;
+    padding: 15px;
+  }
+
+body {
+  font-family: 'Source Sans Pro';
+  /* background-image: url(https://images.unsplash.com/photo-1475274047050-1d0c0975c63e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80); */
+  background-color: rgb(114, 54, 38);
+  background-size: cover;
+  color: rgb(245, 205, 188);
+}
+
+p {
+  font-family: 'Noto Serif';
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #8bd1f7;
+}
+
+.restaurants {
+  width: 40%;
+  overflow-y: scroll;
+  height: 600px;
+  margin-left: 10px;
+  padding: 15px;
+  background-color: rgb(15, 3, 3);
+}
+
+.container {
+  display: flex;
+  align-items: stretch;
+  margin-bottom: 20px;
+
+}
+
+.container-top {
+  display: flex;
+  justify-content: space-between;
+}
+
+.more {
+  background-color: rgb(15, 3, 3);
+  padding: 15px;
+}

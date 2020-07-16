@@ -1,0 +1,14 @@
+{
+  "name": "blackownedrestaurants",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mary kerr",
+  "license": "ISC",
+  "dependencies": {
+    "@google/markerclustererplus": "^5.0.4"
+  }
+}
