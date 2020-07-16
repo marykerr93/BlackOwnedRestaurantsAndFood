@@ -77,7 +77,4 @@ var locations = [
 ]
 
 //to do:
-//finish accruing info
 //database
-//CSS (scrollable list)
-//heroku
