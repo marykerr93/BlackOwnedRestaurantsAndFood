@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "rm -rf dist && mkdir dist && rsync -rv * dist --exclude ./dist"
+    "build": "mkdir dist && rsync -rv * dist --exclude ./dist"
   },
   "author": "mary kerr",
   "license": "ISC",
