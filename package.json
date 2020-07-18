@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm install && cp ./node_modules/@google/markerclustererplus/dist/markerclusterer.min.js ./public"
+    "start": "npm install"
   },
   "author": "mary kerr",
   "license": "ISC",
